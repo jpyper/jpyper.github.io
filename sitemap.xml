@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://jpyper.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://jpyper.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://jpyper.github.io/blog/first-post/</loc>
+        <lastmod>2024-06-08</lastmod>
+    </url>
+    <url>
+        <loc>https://jpyper.github.io/wiki/</loc>
+    </url>
+    <url>
+        <loc>https://jpyper.github.io/wiki/about-this-site/</loc>
+        <lastmod>2024-06-07</lastmod>
+    </url>
+</urlset>
